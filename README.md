@@ -4,7 +4,7 @@ A real-time co-op study game for 2–8 players. Everyone joins from their own ph
 
 **Play it:** https://missing-piece-game.padmini-m.workers.dev (no login, no install; you can also try it solo with two bot teammates)
 
-![Missing Piece cover](docs/cover.png)
+   ![Missing Piece cover](cover.png)
 
 ## How it plays
 
