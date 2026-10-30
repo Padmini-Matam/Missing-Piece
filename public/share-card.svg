@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f4f5ef"/>
+<rect x="70" y="45" width="1060" height="540" rx="64" fill="#fffefa"/>
+<path d="M18 18H36V14C36 4 64 4 64 14V18H82V36H86C96 36 96 64 86 64H82V82H64V74C64 64 36 64 36 74V82H18V64H26C36 64 36 36 26 36H18Z" transform="translate(505 90) scale(1.9)" fill="#176b52"/>
+<text x="600" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" fill="#20352e">Missing Piece</text>
+</svg>
